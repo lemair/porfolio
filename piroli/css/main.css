@@ -79,7 +79,7 @@ position: relative;
     background-image: url(../img/sign.png);
     background-repeat: no-repeat;
     position: relative;
-    left: 220px;
+    left: 310px;
     padding: 100px;  
 }
 .white_sqr{
@@ -347,15 +347,133 @@ top: 36px;
     background-repeat: no-repeat;
     background-position: center;
     background-color: #10c9c3;
-    position: relative;
+    position: absolute;
+bottom: 274px;
+right: 740px;
     
 }
 .icons{
     width: 100%;
-    height: 530px;
+    height: 630px;
     position: relative;
     top: 602px;
     background-color: #e9e9e9;
+    display: block;
+    
+}
+.top_ico{
+    padding: 100px;
+    display: block;
+}
+.top{
+    background-image: url(../img/diamond.png);
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    background-position: center;
+    margin-bottom: 30px;
+    
+}
+.bottom h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+
+
+.top2{
+    background-image: url(../img/arrow.png);
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 40px;
+      margin-bottom: 30px;
+}
+.bottom2{}
+.bottom2 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+
+.top3{    background-image: url(../img/phone.png);
+    background-repeat: no-repeat;
+    height: 44px;
+    width: 40px;
+      margin-bottom: 30px;
+}
+.bottom3{}
+.bottom3 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.top4{
+   
+    background-image: url(../img/gamepad.png);
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 44px;
+      margin-bottom: 30px;
+}
+.bottom4{}
+.bottom4 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.top5{
+    background-image: url(../img/plane.png);
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 44px;
+      margin-bottom: 30px;
+}
+.bottom5{}
+.bottom5 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.top6{background-image: url(../img/star_bl.png);
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 44px;
+  margin-bottom: 30px;
+}
+
+.bottom6{}
+.bottom6 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.top7{background-image: url(../img/m_stick.png);
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 44px;
+  margin-bottom: 30px;
+}
+.bottom7{}
+.bottom7 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.top8{background-image: url(../img/oil.png);
+    background-repeat: no-repeat;
+    height: 46px;
+    width: 44px;
+    margin-bottom: 30px;
+}
+.bottom8{}
+.bottom8 h2{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.bot_ico{
+    
 }
 .slider{
     width: 100%;
@@ -365,6 +483,17 @@ top: 36px;
     background-color: #10c9c3;
     margin-bottom: 65px;
 }
+.carousel{
+    width: 100%;
+    height: 500px;
+    
+}
+.carousel h2{
+  
+    color: #fff;
+    font-size: 25px;
+    position: absolute;
+}
 .logos{
     width: 100%;
     height: 195px;
@@ -372,10 +501,47 @@ top: 36px;
     top: 602px;
     background-color: #ffffff; 
 }
+.logo1{
+   background-image: url(../img/LOGO1.png); 
+    background-repeat: no-repeat;
+    height: 128px;
+    width: 100%;
+}
+.logo2{
+    background-image: url(../img/LOGO2.png); 
+    background-repeat: no-repeat;
+    height: 128px;
+    width: 100%;
+}
+.logo3{
+     background-image: url(../img/LOGO3.png); 
+    background-repeat: no-repeat;
+    height: 128px;
+    width: 100%;
+}
+.logo4{
+     background-image: url(../img/LOGO4.png); 
+    background-repeat: no-repeat;
+    height: 128px;
+    width: 100%;
+}
+.logo5{
+     background-image: url(../img/LOGO5.png); 
+    background-repeat: no-repeat;
+    height: 128px;
+    width: 100%;
+}
 .project{
-     width: 100%;
+    width: 100%;
     height: 530px;
     position: relative;
     top: 602px;
     background-color: #e9e9e9;
+}
+footer{
+    width: 100%;
+    height: 280px;
+    position: relative;
+    top: 602px;
+    background-color: #141414;
 }
