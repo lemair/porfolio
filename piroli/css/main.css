@@ -4,8 +4,12 @@ header{
 .logo{
     background-image: url(../img/Logo.png);
     background-repeat: no-repeat;
-    margin: 40px 0;
+    margin: 48px 100px;
     position: relative;
+    height: 50px;
+}
+.navbar{
+    float: right;
 }
 .navbar-nav{
     margin: 28px 0;
@@ -144,6 +148,7 @@ position: relative;
     background-color: #10c9c3;
     height: 240px;
     width: 100%;
+    display: inline-block;
 }
 .projects{
     background-image: url(../img/ChemodanV3.png);
@@ -317,9 +322,60 @@ top: 36px;
     padding: 40px;
 }
 .process p{
-      width: 100%;
+    width: 100%;
     position: relative;
     top: 450px;
     text-align: center;
     color: black;
+}
+.progress-bar{
+    border-radius: 3px;
+}
+.video_box{
+    width: 100%;
+    height: 570px;
+    position: relative;
+    top: 502px;
+    background-color: #e9e9e9;
+    margin-bottom: 100px;
+}
+.button_play{
+    height: 80px;
+    width: 80px;
+    border-radius: 90px;
+    background-image: url(../img/play_ar.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #10c9c3;
+    position: relative;
+    
+}
+.icons{
+    width: 100%;
+    height: 530px;
+    position: relative;
+    top: 602px;
+    background-color: #e9e9e9;
+}
+.slider{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: 602px;
+    background-color: #10c9c3;
+    margin-bottom: 65px;
+}
+.logos{
+    width: 100%;
+    height: 195px;
+    position: relative;
+    top: 602px;
+    background-color: #ffffff; 
+}
+.project{
+     width: 100%;
+    height: 530px;
+    position: relative;
+    top: 602px;
+    background-color: #e9e9e9;
 }
