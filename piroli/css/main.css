@@ -1,3 +1,4 @@
+
 header{
     background-color: #e9e9e9;
 }
@@ -15,22 +16,22 @@ header{
     margin: 28px 0;
     font-family: "MontserratMedium";
     font-size: 20px;
-    
+
 }
 .nav-item .nav-link{
     color: #412727;
     text-transform: uppercase;
-    
+
 }
 .nav-link:hover{
     color: #2ecbc6;
 }
 .navbar-light .navbar-nav .nav-link{
-     color: #412727;
+    color: #412727;
     text-transform: uppercase;
 }
 .navbar-light .navbar-nav .nav-link:hover{
-     color: #2ecbc6;
+    color: #2ecbc6;
 }
 .ads{
     margin: 50px 0;
@@ -41,26 +42,26 @@ header{
     text-align: center;
     font-family: "MontserratMedium";
     left: -52px;
-position: relative;
+    position: relative;
 }
 .ads p{
     margin: 40px 0 ;
     text-align: left;
     font-size: 18px;
-     font-family: "NunitoSansRegular";
+    font-family: "NunitoSansRegular";
 }
 .ads .button{
-   border-radius:3px ;
+    border-radius:3px ;
     padding: 20px 50px 20px 50px;
     background-color: #10c9c3;
     color: #ffffff;
     text-transform: uppercase;
     text-decoration: none;
-    
+
 }
 .ads .button a{
     color: #ffffff;
-    
+
 }
 .about_us h2{
     color: black;
@@ -88,33 +89,33 @@ position: relative;
     height: 570px;
 }
 .progress1 .progress-bar{
-   
-   background-color: #10c9c3;
-   padding: 5px;
-   width: 500px;
-   margin: 25px;
+
+    background-color: #10c9c3;
+    padding: 5px;
+    width: 100%;
+    margin: 25px;
 }
 .progress2 .progress-bar{
-    
+
     margin: 25px;
     padding: 5px;
-    width: 500px;
+    width: 100%;
     background-color: #10c9c3;
 }
 .progress1  h2{
     font-size: 30px;
     padding: 15px;
-     text-transform: uppercase;
-     left: -280px;
+    text-transform: uppercase;
+    left: -280px;
     position: relative;
     text-align: center;
 }
 .progress2  h2{
     font-size: 30px;
-     padding: 15px;
-     text-transform: uppercase;
+    padding: 15px;
+    text-transform: uppercase;
     text-align: center;
-     left: -245px;
+    left: -245px;
     position: relative;
 }
 .progress3  h2{
@@ -128,7 +129,7 @@ position: relative;
 .progress3 .progress-bar{
     margin: 25px;
     padding: 5px;
-    width: 500px;
+    width: 100%;
     background-color: #10c9c3;
 }
 .grey_sqr{
@@ -161,21 +162,21 @@ position: relative;
     background-image: url(../img/chasi.png);
     background-repeat: no-repeat;
     height: 40px;
-     margin-top: 105px;
+    margin-top: 105px;
 }
 .feedbacks{
     background-image: url(../img/2.png);
     background-repeat: no-repeat;
     height: 40px;
     position: relative;
-     margin-top: 105px;
+    margin-top: 105px;
 }
 .happy{
-      background-image: url(../img/heart.png);
+    background-image: url(../img/heart.png);
     background-repeat: no-repeat;
     height: 40px;
     position: relative;
-     margin-top: 105px;
+    margin-top: 105px;
 }
 .squares_up{
     width: 100%;
@@ -229,10 +230,10 @@ position: relative;
 }
 .w_right,
 .w_left{
-display: inline-block;
+    display: inline-block;
 }
 .w_right{
-   margin: -30px 57px
+    margin: -30px 57px
 }
 .w_right p{
     color:#f4fcfb;
@@ -241,10 +242,10 @@ display: inline-block;
 }
 .w_right1,
 .w_left1{
-display: inline-block;
+    display: inline-block;
 }
 .w_right1{
-  margin: -30px 60px
+    margin: -30px 60px
 }
 .w_right1 p{
     color:#f4fcfb;
@@ -263,14 +264,14 @@ display: inline-block;
 }
 .w_right2,
 .w_left2{
-display: inline-block;
+    display: inline-block;
 }
 .w_right2{
     margin: -30px 60px;
 }
 .w_right3,
 .w_left3{
-display: inline-block;
+    display: inline-block;
 }
 .w_right3{
     margin: -30px 60px;
@@ -286,7 +287,7 @@ display: inline-block;
     font-size: 32px;
 }
 .w_right2 h2{
-     color:#f4fcfb;
+    color:#f4fcfb;
     text-transform: uppercase;
     font-size: 32px;
 }
@@ -296,22 +297,22 @@ display: inline-block;
     font-size: 32px;
 }
 .load_work{
-background-color: #f5f5f5;  
-height: 100px;
-width: 100%;
+    background-color: #f5f5f5;  
+    height: 100px;
+    width: 100%;
     position: relative;
-top: 290px;
-    
-    
+    top: 290px;
+
+
 }
 .load_work h2{
-        position: relative;
-top: 36px;
+    position: relative;
+    top: 36px;
     color: #8e8e8e;
     text-align: center;
 }
 .process{
-   
+
 }
 .process h2{
     width: 100%;
@@ -343,14 +344,14 @@ top: 36px;
     height: 80px;
     width: 80px;
     border-radius: 90px;
-    background-image: url(../img/play_ar.png);
+    background-image: url(../img/play_arrow.png);
     background-repeat: no-repeat;
     background-position: center;
     background-color: #10c9c3;
     position: absolute;
-bottom: 274px;
-right: 740px;
-    
+    bottom: 274px;
+    right: 740px;
+
 }
 .icons{
     width: 100%;
@@ -359,7 +360,7 @@ right: 740px;
     top: 602px;
     background-color: #e9e9e9;
     display: block;
-    
+
 }
 .top_ico{
     padding: 100px;
@@ -373,12 +374,15 @@ right: 740px;
     position: relative;
     background-position: center;
     margin-bottom: 30px;
-    
+    position: relative;
+
+    right: -68px;
+
 }
 .bottom h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 
 
@@ -387,93 +391,113 @@ right: 740px;
     background-repeat: no-repeat;
     height: 40px;
     width: 40px;
-      margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    right: -68px;
 }
 .bottom2{}
 .bottom2 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 
 .top3{    background-image: url(../img/phone.png);
     background-repeat: no-repeat;
     height: 44px;
     width: 40px;
-      margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 .bottom3{}
 .bottom3 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .top4{
-   
+
     background-image: url(../img/gamepad.png);
     background-repeat: no-repeat;
     height: 42px;
     width: 44px;
-      margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 .bottom4{}
 .bottom4 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .top5{
     background-image: url(../img/plane.png);
     background-repeat: no-repeat;
     height: 42px;
     width: 44px;
-      margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 .bottom5{}
 .bottom5 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .top6{background-image: url(../img/star_bl.png);
     background-repeat: no-repeat;
     height: 42px;
     width: 44px;
-  margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 
 .bottom6{}
 .bottom6 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .top7{background-image: url(../img/m_stick.png);
     background-repeat: no-repeat;
     height: 42px;
     width: 44px;
-  margin-bottom: 30px;
+    margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 .bottom7{}
 .bottom7 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .top8{background-image: url(../img/oil.png);
     background-repeat: no-repeat;
     height: 46px;
     width: 44px;
     margin-bottom: 30px;
+    position: relative;
+
+    right: -68px;
 }
 .bottom8{}
 .bottom8 h2{
     font-size: 28px;
     text-transform: uppercase;
-   
+
 }
 .bot_ico{
-    
+
 }
 .slider{
     width: 100%;
@@ -483,16 +507,29 @@ right: 740px;
     background-color: #10c9c3;
     margin-bottom: 65px;
 }
-.carousel{
+.carousel {
     width: 100%;
     height: 500px;
-    
+
+}
+.carousel-item{
+    width: 100%;
+    height: 500px;
+}
+.carousel-caption{
+    width: 700px;
+    height: 300px; 
+    text-align: center;
 }
 .carousel h2{
-  
+
     color: #fff;
     font-size: 25px;
-    position: absolute;
+    text-align: center;
+}
+.carousel h3{
+    padding: 20px;
+    font-size: 16px;
 }
 .logos{
     width: 100%;
@@ -502,7 +539,7 @@ right: 740px;
     background-color: #ffffff; 
 }
 .logo1{
-   background-image: url(../img/LOGO1.png); 
+    background-image: url(../img/LOGO1.png); 
     background-repeat: no-repeat;
     height: 128px;
     width: 100%;
@@ -514,19 +551,19 @@ right: 740px;
     width: 100%;
 }
 .logo3{
-     background-image: url(../img/LOGO3.png); 
+    background-image: url(../img/LOGO3.png); 
     background-repeat: no-repeat;
     height: 128px;
     width: 100%;
 }
 .logo4{
-     background-image: url(../img/LOGO4.png); 
+    background-image: url(../img/LOGO4.png); 
     background-repeat: no-repeat;
     height: 128px;
     width: 100%;
 }
 .logo5{
-     background-image: url(../img/LOGO5.png); 
+    background-image: url(../img/LOGO5.png); 
     background-repeat: no-repeat;
     height: 128px;
     width: 100%;
