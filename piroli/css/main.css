@@ -10,7 +10,7 @@ header{
     height: 50px;
 }
 .navbar{
-    float: right;s
+    float: right;
     display: inline-block;
 }
 .navbar-nav{
@@ -68,9 +68,12 @@ header{
     color: #ffffff;
 
 }
-.about_us h2{
+.about_us{
+    min-height: 400px;
+}
+.about_us  h2{
     color: black;
-    text-align: center;
+    
     margin-top: 100px;
     font-family: "MontserratMedium";
     font-size: 30px;
@@ -80,14 +83,11 @@ header{
     text-align: center;
     font-family: "NunitoSansRegular";
 }
-.sign{
-    margin-top: 40px;
-    background-image: url(../img/sign.png);
-    background-repeat: no-repeat;
-    position: relative;
-    left: 310px;
-    padding: 100px;  
+
+.sign img{ 
+    margin-top: 105px; 
 }
+
 .white_sqr{
     background-color: #f8f9f9;
     width: 100%;
@@ -129,7 +129,7 @@ header{
     text-transform: uppercase;
     text-align: center;
     position: relative;
-    left: -192px;
+    left: -190px;
 }
 .progress3 .progress-bar{
     margin: 25px;
@@ -321,8 +321,7 @@ header{
 }
 .process h2{
     width: 100%;
-    position: relative;
-    top: 450px;
+    
     text-align: center;
     color: black;
     padding: 40px;
@@ -338,12 +337,10 @@ header{
     border-radius: 3px;
 }
 .video_box{
-    width: 100%;
-    height: 570px;
-    position: relative;
-    top: 502px;
+    
+   
     background-color: #e9e9e9;
-    margin-bottom: 100px;
+   
 }
 .button_play{
     height: 80px;

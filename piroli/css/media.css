@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px){
+    .logo{
+       
+        width: auto;
+        height: 30px;
+    }
+    .navbar-toggler{
+        margin-bottom: -80px;
+    }
+}
