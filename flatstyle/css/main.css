@@ -1,0 +1,50 @@
+header {
+    background-image: url(../img/top_bg.jpg);
+    min-height: 490px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.navbar-nav{
+    color: #fff;
+}
+.join{
+    font-size: 30px;
+    color:#fff;
+}
+.top_phrase{
+    font-size: 14px;
+    color: #fff;
+}
+
+.ads{
+   min-height:   450px;
+   padding: 95px;
+    font-size: 14px;
+}
+.ads h2{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.gradient{
+    margin-top: 60px;
+    width: 180px;
+    height: 30px;
+    background: linear-gradient(to right, 
+     #ee732f 20%, #f74c55 20% 40%, #2d5f3b 40% 60%, #404040 60% 80%, #fb636b 80%);
+}
+.services{
+    font-size: 24px;
+    color: #fff;
+    min-height: 305px;
+      background: linear-gradient(to right, 
+     #404040 33%, #f74c55 30% 65%, #2d5f3b 55% 50%);
+}
+}
+.music{
+    min-height: 495px;
+    background-image: url(../img/lone_ship.jpg);
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
